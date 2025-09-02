@@ -12,6 +12,7 @@ Reformulates SAM into a **bilevel optimization framework**.
 - Reduces sensitivity to **radius parameter ρ.
 - Compatible with standard optimizers (SGD, SAM, etc.).
 - Simple PyTorch implementation for easy integration.
+- Use **from optimizers.blosam_2step import BLOSAM** 
 
 ### Basic Training Command
 Use the following format to run training:
